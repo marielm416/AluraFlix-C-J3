@@ -9,6 +9,8 @@ section {
     padding-bottom: 80px;
     display: flex;
     justify-content: center;
+    padding-left: 20px;
+    padding-right: 20 px;
 }
 
 .chamada-texto {
